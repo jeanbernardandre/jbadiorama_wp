@@ -1,0 +1,64 @@
+=== START test_database 2019-03-28 08:07:19 ===
+[ERROR] Impossible de se connecter à la base de données Drupal. Veuillez vérifier le préfixe de table Drupal.<br />
+Veuillez lire la <a href="https://wordpress.org/plugins/fg-drupal-to-wp/faq/" target="_blank">FAQ pour la solution</a>.
+=== END test_database 2019-03-28 08:07:19 ===
+
+=== START test_database 2019-03-28 08:07:33 ===
+[ERROR] Impossible de se connecter à la base de données Drupal. Veuillez vérifier le préfixe de table Drupal.<br />
+Veuillez lire la <a href="https://wordpress.org/plugins/fg-drupal-to-wp/faq/" target="_blank">FAQ pour la solution</a>.
+=== END test_database 2019-03-28 08:07:33 ===
+
+=== START test_database 2019-03-28 08:07:57 ===
+Connecté avec succès à la base de données Drupal
+Données Drupal trouvées :
+3 articles
+7 articles
+10 pages
+0 catégorie
+11 mots-clefs
+
+[WARNING] Votre base de données Drupal contient des utilisateurs. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">version Premium</a> pour les importer.
+[WARNING] Votre base de données Drupal contient des nœuds personnalisés. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">version Premium</a> pour les importer.
+[WARNING] Votre base de données Drupal contient des taxonomies personnalisées. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">version Premium</a> pour les importer.
+[WARNING] Votre base de données Drupal contient des alias d'URL. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">version Premium</a> pour les importer.
+[WARNING] Votre base de données Drupal contient des menus. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">version Premium</a> pour les importer.
+[WARNING] Votre base de données Drupal contient des titres de page. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">version Premium</a> et <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/metatag/" target="_blank">du module Metatag</a> pour les importer.
+[WARNING] Votre base de données Drupal contient des traductions. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">version Premium</a> et <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/internationalization/" target="_blank">du module Internationalization</a> pour les importer.
+=== END test_database 2019-03-28 08:07:57 ===
+
+=== START save 2019-03-28 08:08:12 ===
+Paramètres enregistrés
+=== END save 2019-03-28 08:08:12 ===
+
+=== START import 2019-03-28 08:08:28 ===
+Connecté avec succès à la base de données Drupal
+Données Drupal trouvées :
+3 articles
+7 articles
+10 pages
+0 catégorie
+11 mots-clefs
+
+[WARNING] Votre base de données Drupal contient des utilisateurs. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">version Premium</a> pour les importer.
+[WARNING] Votre base de données Drupal contient des nœuds personnalisés. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">version Premium</a> pour les importer.
+[WARNING] Votre base de données Drupal contient des taxonomies personnalisées. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">version Premium</a> pour les importer.
+[WARNING] Votre base de données Drupal contient des alias d'URL. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">version Premium</a> pour les importer.
+[WARNING] Votre base de données Drupal contient des menus. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">version Premium</a> pour les importer.
+[WARNING] Votre base de données Drupal contient des titres de page. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">version Premium</a> et <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/metatag/" target="_blank">du module Metatag</a> pour les importer.
+[WARNING] Votre base de données Drupal contient des traductions. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/" target="_blank">version Premium</a> et <a href="https://www.fredericgilles.net/fg-drupal-to-wordpress/internationalization/" target="_blank">du module Internationalization</a> pour les importer.
+Import des categories...
+0 catégorie importée
+Import des tags...
+11 mots-clefs importés
+Import des articles...
+[ERROR] Can't copy http://www.jbadiorama.com/sites/default/files/field/image/15129576_1187148591338303_4453819532310434508_o.jpg to /var/www/html/jbwp/wp-content/uploads/2017/02/15129576_1187148591338303_4453819532310434508_o.jpg : Not Found
+3 articles importés
+Import des stories...
+7 articles importés
+Import des pages...
+10 pages importées
+2 médias importés
+N'oubliez pas de modifier les liens internes.
+IMPORT COMPLETED
+=== END import 2019-03-28 08:08:35 ===
+
